@@ -1,5 +1,5 @@
 # Project By Rudransh Sharma
-# Emotion Recognition Software
+# Emotion Recognition Software with joke feature if angry or sad
 
 This project utilizes OpenCV and DeepFace to perform real-time emotion detection from a live video feed. The software detects human faces from the webcam, analyzes their emotions, and displays the detected emotion on the screen. Additionally, if the detected emotion is "sad" or "angry," the software prompts the user with a popup asking if they want to hear a joke. If the user responds "Yes," a random joke is displayed.
 
